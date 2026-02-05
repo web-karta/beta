@@ -5,7 +5,7 @@ Napomena:
 
 DNEVNE LINIJE Bekijskog električnog tramvaja (BETA) jesu 1, 2, 3, 4 i 5. Prometuju od ponedjeljka do subote od oko 5 do 23 sata. Svaka linija ima jedno vozilo, dok se u razdoblju od 7 do 18 sati dodaje još jedno dodatno vozilo.
 
-Popis dnevnih tramvajskih linija:
+Popis dnevnih tramvajskih linija: </br>
 1 DUBRAVA — PEŠIJA
 (Dubrava — Prispa — Bili Brig — Boboška — Centar — Pešija)
 2 PEŠIJA — KRŠTELICA
