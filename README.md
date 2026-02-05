@@ -1,5 +1,6 @@
-# beta
-BEKIJSKI ELEKTRIČNI TRAMVAJ (BETA). Tramvajski prijevoz putnika na području općine Grude (Donja Imotska Bekija), uspostavljen dana 25. svibnja 2025. godine.
+# BETA
+# BEKIJSKI ELEKTRIČNI TRAMVAJ (BETA). </p>
+Tramvajski prijevoz putnika na području općine Grude (Donja Imotska Bekija), uspostavljen dana 25. svibnja 2025. godine.
 
   <h2>Napomena:</h2>
 
