@@ -1,6 +1,8 @@
 # beta
 BEKIJSKI ELEKTRIČNI TRAMVAJ (BETA). Tramvajski prijevoz putnika na području općine Grude (Donja Imotska Bekija), uspostavljen dana 25. svibnja 2025. godine.
+
 Napomena:
+
 DNEVNE LINIJE Bekijskog električnog tramvaja (BETA) jesu 1, 2, 3, 4 i 5. Prometuju od ponedjeljka do subote od oko 5 do 23 sata. Svaka linija ima jedno vozilo, dok se u razdoblju od 7 do 18 sati dodaje još jedno dodatno vozilo.
 
 Popis dnevnih tramvajskih linija:
@@ -14,7 +16,6 @@ Popis dnevnih tramvajskih linija:
 (Gomilice — Krištelica — Zagomila — Bili Brig — Prispa)
 5 POLJANICE — GOMILICE
 (Poljanice — Dubrava — Prispa — Otok — Centar — Gomilice)
---------------------------------------------------------------------------
 
 POSEBNE LINIJE su P1 i P2. Prometuju noću (od 23 sata do 5 sati) te tijekom cijele nedjelje.
 Poseban promet odvija se još i: 01.01.–06.01., 01.03., 01.–02.05., 30.05., 22.06., 05.08., 15.08., 01.–02.11., 18.11., 25.11., 24.12.–31.12., od Velikog četvrtka do Uskrsnog ponedjeljka te na Tijelovo.
